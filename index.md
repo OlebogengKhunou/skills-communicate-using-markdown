@@ -1,5 +1,3 @@
-#Opened A Pull Request
-
-##editted the Readme file
-
-###Commited changes
+# Opened A Pull Request
+## Editted the Readme file
+### Commited changes
